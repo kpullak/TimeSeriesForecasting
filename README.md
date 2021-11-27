@@ -1,4 +1,4 @@
-# timeSeriesForecasting
+# Project Details
 This is work done for the Capstone Project for graduate level course - ST 534 Time Series Analysis.
 Titled - Analysis of Soybean futures prices using GARCH time series modeling process.
 
